@@ -25,6 +25,7 @@ function __sdk_help() {
 	__sdkman_echo_no_colour "       install   or i    <candidate> [version] [local-path]"
 	__sdkman_echo_no_colour "       uninstall or rm   <candidate> <version>"
 	__sdkman_echo_no_colour "       list      or ls   [candidate]"
+	__sdkman_echo_no_colour "       installed         <candidate> [version] [local-path]"
 	__sdkman_echo_no_colour "       use       or u    <candidate> <version>"
 	__sdkman_echo_no_colour "       config"
 	__sdkman_echo_no_colour "       default   or d    <candidate> [version]"
